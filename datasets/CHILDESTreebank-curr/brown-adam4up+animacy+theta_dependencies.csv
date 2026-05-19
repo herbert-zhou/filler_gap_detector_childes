@@ -1,0 +1,1115 @@
+tree_id,dep_id,sentence,idx,none_pos,tracekind,family,gap_phrase_label,gap_phrase_base,gap_role,gap_subtype,filler_label,filler_base,construction,final_label,embed_verb
+8,0,what were you singing?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+16,0,what is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+20,0,"oh, what is that?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+25,0,when you get it down you have to jerk it a little so it will come.,3.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-3,WHADVP,EQ,EQ_ADJUNCT,
+29,0,"what're you doing over in the corner, Paul?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+30,0,it takes time to learn how to use it properly.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,learn
+35,0,what does that mean?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+45,0,how did you hurt it?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+49,0,"yes, that's all *NULL* you have to do.",2.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>-<THEME-V1>,WHNP,RC,RC_OBJ,
+52,0,"oh yes, when you're learning things you have to miss sometimes.",3.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-3,WHADVP,EQ,EQ_ADJUNCT,
+55,0,what kind of work do you do?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+66,0,when you take the glasses off am I still green?,2.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,
+67,0,Paul doesn't know what to think about you.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-<INANIM>-<THEME-V2>,WHNP,EQ,EQ_OBJ,know
+73,0,who's in your chair?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<ANIM>,WHNP,MQ,MQ_SUBJ,
+86,0,"oh, he doesn't know where he's driving?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,know
+100,0,how did you break your window?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+103,0,I don't think I understand what you're talking about?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V3>,WHNP,EQ,EQ_OBJ,understand
+106,0,"oh yes, I don't know where that is.",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,know
+112,0,I guess he was just measuring the string to see how long it was.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1,WHNP,EQ,EQ_OBJ,see
+120,0,we need something *NULL* to look at.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V2>,WHNP,RC,RC_OBJ,
+132,0,"it's what you call a mechanical toy, yes.",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,EQ,EQ_OBJ,call
+135,0,"oh, I suppose it's something *NULL* you can make.",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V2>,WHNP,RC,RC_OBJ,
+139,0,why do you lock the animals up at night?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+140,0,what kind of food do you have?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+141,0,what kind is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-<INANIM>,WHNP,MQ,MQ_OBJ,
+142,0,I don't know what ice vanilla food is.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,know
+143,0,what is it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+146,0,what do you have?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+166,0,what are those?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+167,0,and what will the poor cow do?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,EQ,EQ_OBJ,
+169,0,"how many shapes can you make with that, Adam?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+174,0,"oh, what will she do.",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+177,0,why don't you just sit on your bed.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+184,0,what's your name?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+197,0,"oh, where's your farm?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+217,0,what did you do?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+239,0,the people in the factory where they make the popsicles put the,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,RC,RC_ADJUNCT,
+240,0,and then you eat frozen whatever it is.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,RC,RC_OBJ,
+244,0,that's where we found those.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,found
+246,0,is that what you do?,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,EQ,EQ_OBJ,do
+251,0,know what that color is?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,know
+259,0,what is it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+262,0,how colored they are.,1.0,-NONE-ABAR-WH-,T,WH,ADJP,ADJP,ADJUNCT,ADJUNCT,WHADJP-1,WHADJP,EQ,EQ_ADJUNCT,
+263,0,why don't you count them?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+265,0,why didn't you put any paint on?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+273,0,what are you looking for?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+278,0,"would you like to see how many of these we found, Adam?",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V3>,WHNP,EQ,EQ_OBJ,see
+279,0,I don't know if there's a whole set or not.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,know
+289,0,"what do you mean, Adam?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+293,0,what're you going to make?,2.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+300,0,what're you doing back in there?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+305,0,I don't know what ice vanilla is.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,know
+310,0,what're you doing?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+314,0,"well, how will you get the blocks out when you want them.",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+314,1,"well, how will you get the blocks out when you want them.",1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,get
+316,0,if you keep every thing that she has what would she have for,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+316,1,if you keep every thing that she has what would she have for,3.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-3-<INANIM>-<THEME-V2>,WHNP,RC,RC_OBJ,
+324,0,"well, what're you doing?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+327,0,what're you doing?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+329,0,why would you break it?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+335,0,what did you buy?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+336,0,how much money do you have?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+337,0,how can you save your money if you put it in there.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,save
+337,1,how can you save your money if you put it in there.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+338,0,how can you save your money if you put it in there.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,save
+338,1,how can you save your money if you put it in there.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+339,0,let's see how much money you have?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V3>,WHNP,EQ,EQ_OBJ,see
+341,0,what would you do with sixty dollars.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+343,0,"good morning, sir, what could I help you with this morning?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+349,0,"well, if you don't want to buy my food then you just put it back on.",,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+358,0,what do you need?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+360,0,what will she have to bring next time?,2.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+363,0,if I want some more what?,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+381,0,how can I give people any change?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+385,0,if you say so.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+388,0,which one do you think I should use?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V2>,WHNP,EQ,EQ_OBJ,think
+392,0,"what can you make with those, Adam?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+394,0,that's to help you learn how to count.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,learn
+401,0,so how many should you have up?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+418,0,how many do you need to push up?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V2>,WHNP,MQ,MQ_OBJ,
+423,0,how many school children will be late?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<ANIM>,WHNP,MQ,MQ_SUBJ,
+426,0,this is what eight will look like.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,EQ,EQ_OBJ,look
+432,0,watch what you're doing.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,EQ,EQ_OBJ,watch
+433,0,is that what you do?,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,EQ,EQ_OBJ,do
+442,0,how many do you have up there?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<ANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+445,0,tell me how many have you found.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<ANIM>-<PATIENT-V2>,WHNP,EQ,EQ_OBJ,tell
+459,0,what do you think they're for?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,think
+464,0,what happened?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+470,0,what're you making with the long one?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+471,0,what did you make?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+472,0,why don't you use the small ones?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+476,0,do you know what a design is?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,know
+478,0,what is that *NULL* you're making?,2.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>-<PATIENT-V1>,WHNP,RC,RC_OBJ,
+478,1,what is that *NULL* you're making?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+482,0,what is that *NULL* you're making?,2.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>-<PATIENT-V1>,WHNP,RC,RC_OBJ,
+482,1,what is that *NULL* you're making?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+488,0,it can just be a shape that you think is pretty.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,RC,RC_SUBJ,
+501,0,"no, you cann't play the game if you don't play the rubber bands.",,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,play
+517,0,I think there're some old books there that are all torn.,2.0,-NONE-ABAR-RC-,T,RC,NP-3,NP,SUBJ,SUBJ,WHNP-2-<INANIM>-<THEME-V2>,WHNP,RC,RC_SUBJ,
+522,0,what kind of school do you go to?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<GOAL-V1>,WHNP,MQ,MQ_OBJ,
+523,0,you don't learn how to count at nursery school.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,learn
+527,0,if you can count tell me how many I have up there.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+527,1,if you can count tell me how many I have up there.,2.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>-<THEME-V3>,WHNP,EQ,EQ_OBJ,tell
+534,0,we need something like a shoelace *NULL* to spin it.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<AGENT-V2>,WHNP,RC,RC_SUBJ,
+541,0,how can you tell it's going to stop?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+548,0,what's going up in the sky?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+560,0,you didn't know where it went.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,know
+581,0,"no, I don't know what a grabby boat is.",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,know
+598,0,you have to show me how to do it.,2.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,show
+599,0,how do you do it?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+600,0,what do I turn around?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+601,0,what do I turn around?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+605,0,"well, what do I pull?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+612,0,why don't you let Paul do it?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+619,0,why don't you turn it now so he can see it?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+626,0,what happened?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+632,0,"oh, it's a ball when you turn it around.",1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,turn
+639,0,what can you use for paper?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+641,0,why don't you use the newspaper there on the sewing machine?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+646,0,"no, because next time *NULL* you want to use the paints they would be all",1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,RC,RC_ADJUNCT,
+648,0,why don't you paint the cow?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+652,0,"can drink it, what does that mean?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+655,0,what's a meal?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+658,0,what'll you cook?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+659,0,what're you cooking?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+662,0,so how can that make it black?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+667,0,what tire do you see in the store?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+668,0,why are you doing that?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+681,0,why did you wash your hands?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+693,0,"yes, if you put it aside and let it dry.",,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+702,0,what do you use that for?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+703,0,why would your daddy kill a worm?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+704,0,"that was a rubber band that broke, wasn't it?",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,EQ,EQ_SUBJ,broke
+709,0,what would you use a shower for?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+719,0,why did you waste your paint?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+733,0,it will dry very quickly if you just leave it there.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,dry
+737,0,"well, what are those supposed to be?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+739,0,what does the windshield wiper do?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+749,0,"oh, is that the way *NULL* you drive it?",1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,drive
+759,0,what kind of car is this?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+783,0,"oh, what're they going to do at camp?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+785,0,is that what you said?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,EQ,EQ_OBJ,said
+787,0,"oh well, what's the little girl going to have for a toy?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+789,0,now what is the little girl going to take to camp for a toy?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+790,0,"what do you mean, what are you waiting for?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+790,1,"what do you mean, what are you waiting for?",2.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>-<PATIENT-V2>,WHNP,MQ,MQ_OBJ,
+804,0,how're you?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+807,0,if I 'm Peter you're Joe.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+813,0,where're you going?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+824,0,where are we having the picnic?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+830,0,why do you have to go to New York?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+833,0,what're we going to see in New York?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+834,0,where will we go in New York to see the animals?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+838,0,what is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+841,0,it would be a lot easier if you were both named Joe.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,named
+847,0,what's an animal man?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+850,0,what does fold mean?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+851,0,what does fold mean?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+856,0,this is what it should look like.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,look
+860,0,do you see any parts there that you fold?,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V2>,WHNP,EQ,EQ_OBJ,see
+869,0,that's what it should look like.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,look
+872,0,why do we need our car?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+877,0,there's a part that goes in between the top and the bottom.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,RC,RC_SUBJ,
+879,0,where's the part that goes in between?,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,RC,RC_SUBJ,
+879,1,where's the part that goes in between?,2.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,MQ,MQ_ADJUNCT,
+880,0,that's what's missing.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,EQ,EQ_SUBJ,missing
+884,0,"there's nobody in either car, so how're you going to get out.",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+892,0,how're you going to get out?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+896,0,what's your name?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+905,0,why is your name Bobby?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+906,0,because that's the name *NULL* my mommy gave me.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,RC,RC_OBJ,
+909,0,what do you want to play?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+911,0,I don't know how to play that.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,know
+912,0,how do you play that?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+922,0,what do you have here?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+924,0,what makes you think so?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<CAUSER-V1>,WHNP,MQ,MQ_SUBJ,
+926,0,what happened?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+934,0,what do you think makes the light?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<AGENT-V2>,WHNP,EQ,EQ_SUBJ,think
+937,0,if you dial that one this one ought to ring.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+948,0,she said that if you push the button one way it's supposed to ring.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,said
+948,1,she said that if you push the button one way it's supposed to ring.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,said
+950,0,"Adam, why don't you go over a little further and see if we can",,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,see
+950,1,"Adam, why don't you go over a little further and see if we can",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+955,0,what's the problem?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+958,0,what do you mean off?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+962,0,is that what you want?,1.0,-NONE-ABAR-WH-,T,WH,VP,VP,ADJUNCT,ADJUNCT,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,EQ,EQ_ADJUNCT,want
+965,0,now how did that light go on before?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+968,0,"wait, now why are you changing?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+970,0,I don't know why he wants to change.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,know
+972,0,what happened to it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+973,0,why did it go away?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+990,0,what color are they?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+991,0,what color is this?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+994,0,"well, what is the color?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+996,0,that Cecelia gave him.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,EQ,EQ_OBJ,
+998,0,how many cookies do you think you'll need?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V2>,WHNP,EQ,EQ_OBJ,think
+999,0,whyn't you see if Ursula would like some cookies?,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,see
+999,1,whyn't you see if Ursula would like some cookies?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1011,0,what is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+1018,0,do you know why he was going to be the eye?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,know
+1019,0,why do you think he's going to be the eye?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,think
+1021,0,do you know why he's the eye?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,know
+1022,0,what do you think happened?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,EQ,EQ_SUBJ,think
+1032,0,what did you say?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+1038,0,why does she look like a crashed lady?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1042,0,why do you want to do that?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1052,0,he's the funniest baby *NULL* you ever had!,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<ANIM>-<THEME-V1>,WHNP,RC,RC_OBJ,
+1056,0,"well, why don't you put the whole box back in there?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1059,0,what happened?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+1061,0,why do you say he's a bad boy?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1065,0,why did she keep your car?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1067,0,"you mustn't say that, that's not a nice word *NULL* to use.",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-<INANIM>-<PATIENT-V2>,WHNP,RC,RC_OBJ,
+1068,0,that's why she what?,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+1072,0,"well, whether you're bad or good don't you want people to call",,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+1073,0,"well, that's what you should call your friends, call them by their",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,EQ,EQ_OBJ,call
+1075,0,who are they?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<ANIM>,WHNP,MQ,MQ_OBJ,
+1086,0,the dollies *NULL* you had last week?,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,RC,RC_OBJ,
+1090,0,"oh, what kind of whistle is that?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+1092,0,"why don't you put the whistle down and go close the door, please.",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1097,0,how are you?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1099,0,what's that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+1101,0,what're you going To do with it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+1104,0,what is it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+1105,0,what do you think that is?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,think
+1107,0,what is that song?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+1108,0,"oh, when were you in Texas?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1112,0,what were we doing in Texas?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+1114,0,with whom did you fight?,1.0,-NONE-ABAR-WH-,T,WH,PP,PP,ADJUNCT,ADJUNCT,WHPP-1,WHPP,MQ,MQ_ADJUNCT,
+1119,0,where was Paul?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1121,0,where was Paul?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1123,0,why was I the only one on a horse?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1140,0,who's there?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<ANIM>,WHNP,MQ,MQ_SUBJ,
+1142,0,who is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<ANIM>,WHNP,MQ,MQ_OBJ,
+1161,0,here's a picture of David when he was little like Paul is.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,RC,RC_ADJUNCT,
+1168,0,who is this?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<ANIM>,WHNP,MQ,MQ_OBJ,
+1174,0,"well, you look at those *NULL* you have first.",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,RC,RC_OBJ,
+1182,0,"what city is that, Adam?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+1184,0,that was last summer when we went to New Hampshire.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,RC,RC_ADJUNCT,
+1190,0,who is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<ANIM>,WHNP,MQ,MQ_OBJ,
+1193,0,what do you mean?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+1194,0,how could you do that?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1195,0,"no, that's the church where we used to go to church a long time",1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,RC,RC_ADJUNCT,
+1196,0,what is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+1200,0,when we lived in Pembroke.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+1223,0,who is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<ANIM>,WHNP,MQ,MQ_OBJ,
+1227,0,if you turn it that way what does it look like?,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+1227,1,if you turn it that way what does it look like?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V2>,WHNP,MQ,MQ_OBJ,
+1228,0,what does the shadow look like when you turn it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+1228,1,what does the shadow look like when you turn it?,2.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,look
+1229,0,if you turn it that way it looks like something to me.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+1232,0,"here's one, Adam that you'd like to see.",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,RC,RC_OBJ,
+1235,0,"no, that's when we lived in Cambridge.",1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,lived
+1238,0,that'd be a nice one *NULL* to show Ursula.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,RC,RC_OBJ,
+1240,0,"oh, that's Paul when he came home from the hospital.",1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,RC,RC_ADJUNCT,
+1244,0,that's your grandmother when she came to stay with you last year.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,RC,RC_ADJUNCT,
+1247,0,"what does intelligent mean, Adam?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+1255,0,why don't you let Paul put one in and then we'll be finished,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+1259,0,what is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+1265,0,"oh, why would you dump them out?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1267,0,"well, how can she see it if you don't press it?",,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,see
+1267,1,"well, how can she see it if you don't press it?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1271,0,that's a picture of you when you were a little baby.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,RC,RC_ADJUNCT,
+1272,0,why is it dark?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1273,0,why is it dark?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1281,0,what happened?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+1293,0,when you turn it.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+1299,0,what'd you say?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+1305,0,he knows you're such a nice big boy who can do so many things so much,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<ANIM>-<AGENT-V2>,WHNP,RC,RC_SUBJ,
+1309,0,what do you think is wrong?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_SUBJ,think
+1312,0,what's what for?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+1315,0,"what're you looking at, Adam?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+1329,0,what's supposed to happen to it?,2.0,-NONE-ABAR-WH-,T,WH,NP-1,NP,SUBJ,SUBJ,WHNP-2-<INANIM>-<THEME-V2>,WHNP,MQ,MQ_SUBJ,
+1330,0,what is this?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+1337,0,"ok, Adam, what happened?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+1338,0,why don't you try it again.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1344,0,what's that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+1345,0,what is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+1350,0,what's so funny about it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_SUBJ,
+1365,0,what do you want me to do?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,MQ,MQ_OBJ,
+1371,0,where's the fire?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1377,0,he wants what's inside.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_SUBJ,wants
+1384,0,what do you see?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+1387,0,"oh, Paul, where is Rin_tin_tin?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1388,0,what is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+1391,0,"what do you think you use that for, Adam?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,think
+1393,0,what happens at night then?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+1403,0,what are my slides doing in there?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+1406,0,why don't you use the other light?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1410,0,"alright, what do you do when you're finished with something?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+1410,1,"alright, what do you do when you're finished with something?",2.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,do
+1414,0,"what else does Paul say, Adam?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+1418,0,these are things *NULL* you can make.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,RC,RC_OBJ,
+1421,0,where's the writing?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1423,0,this is how to grow a goofy garden.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,grow
+1424,0,"where's your shoe, Paul?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1427,0,how to make dingdong music.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+1428,0,what'd you think you do?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,EQ,EQ_OBJ,think
+1429,0,what do you have to use?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+1430,0,and what is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,
+1434,0,what did you say?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+1444,0,what color is the one *NULL* you gave Ursula?,2.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>-<PATIENT-V1>,WHNP,RC,RC_OBJ,
+1444,1,what color is the one *NULL* you gave Ursula?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+1446,0,where's the paper?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1447,0,whyn't you draw me a whale?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1448,0,show Ursula how you drew the whale at school.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,show
+1453,0,what do you need?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+1456,0,"that's all *NULL* you need, a pair of scissors.",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-<INANIM>-<SUBJMATT-V1>,WHNP,RC,RC_OBJ,
+1459,0,what is this?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+1460,0,what does Mommy have in her hand?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+1461,0,"what's in it, do you think?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_SUBJ,
+1470,0,"what is that, Paul?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+1485,0,you don't have any place *NULL* to put what?,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,RC,RC_ADJUNCT,
+1487,0,I don't think it's time *NULL* to play this.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,RC,RC_ADJUNCT,
+1498,0,when it's time *NULL* to get Adam he gets his coat on and goes to the door.,3.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-3,WHADVP,EQ,EQ_ADJUNCT,
+1498,1,when it's time *NULL* to get Adam he gets his coat on and goes to the door.,2.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,
+1502,0,what're you going to have today?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+1506,0,who does anything like that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<ANIM>-<AGENT-V1>,WHNP,MQ,MQ_SUBJ,
+1507,0,who would cut somebody's head off?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<ANIM>-<AGENT-V1>,WHNP,MQ,MQ_SUBJ,
+1520,0,where is the water?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1521,0,what did we do with Ursula's clock?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+1523,0,why would you do that?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1533,0,what else does he understand?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+1534,0,what else does he understand?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+1537,0,he understands the way in which I feed the dog because he's tried,1.0,-NONE-ABAR-RC-,T,RC,PP,PP,ADJUNCT,ADJUNCT,WHPP-1,WHPP,EQ,EQ_ADJUNCT,understands
+1557,0,I think he could follow an instruction if the objects weren't in the,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,think
+1557,1,I think he could follow an instruction if the objects weren't in the,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,follow
+1559,0,why cann't you drive?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1565,0,where's the cat?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1574,0,what does that mean?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+1577,0,"Paul, can you find the block that goes in here, the long block?",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,RC,RC_SUBJ,
+1586,0,look in the drawer where you keep your shirt.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,RC,RC_ADJUNCT,
+1613,0,"oh, that's the kind *NULL* you just push, Adam.",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,RC,RC_OBJ,
+1614,0,"oh, do you know what that story's about?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,know
+1618,0,what do you think the name of that story is?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,think
+1620,0,why don't you whisper in my ear.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1627,0,do you understand what he's saying?,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-THEME-V2>,WHNP,EQ,EQ_OBJ,understand
+1632,0,why are you going to have to love the birds?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1634,0,are there any birds that are not nice?,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>,WHNP,RC,RC_SUBJ,
+1635,0,are there any birds that are not nice?,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>,WHNP,RC,RC_SUBJ,
+1639,0,what is this supposed to be?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+1641,0,how do you get a log?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1643,0,see where it goes?,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,see
+1647,0,who is this do you suppose?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<ANIM>,WHNP,EQ,EQ_OBJ,
+1654,0,"yes, how do you know that?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1656,0,what shall we do?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+1661,0,what's the difference?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+1662,0,why do you call one kindergarten and one nursery school?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+1664,0,what did we do on these dotted lines?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+1666,0,is that what what is for?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,
+1671,0,why doesn't it stand on the rug?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1685,0,what's a tea cake?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+1687,0,what is it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+1693,0,how can you stand these trees and the difference?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1694,0,what does that mean?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+1696,0,how do you play go up?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1702,0,he knows what I 'm supposed to do.,2.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>-<THEME-V3>,WHNP,EQ,EQ_OBJ,knows
+1705,0,what're you doing?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+1706,0,I'll show you how we wind it up.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,show
+1710,0,what was your costume?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+1715,0,"I think we need a tray *NULL* to set it on, and a little bit of water.",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<GOAL-V3>,WHNP,RC,RC_OBJ,
+1726,0,"oh, what else is a different thing?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+1727,0,you're spilling what you have.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,EQ,EQ_OBJ,spilling
+1733,0,let's see if we do it this way.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,see
+1740,0,what're you doing?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+1748,0,what is this?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+1756,0,which one looks like that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<CAUSER-V1>,WHNP,MQ,MQ_SUBJ,
+1765,0,that's the way *NULL* they're made.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,made
+1767,0,"well, where're your hands?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1787,0,"oh well, why don't you play some more and then maybe you'll",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+1789,0,that's where the bell was.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+1792,0,and this goes way up if you're very strong and hits a bell.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,goes
+1801,0,I'd like to see what it looks like.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V3>,WHNP,EQ,EQ_OBJ,see
+1810,0,where're you going?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1820,0,what did I have?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+1844,0,what other things would you like me to bring back that I brought,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V2>,WHNP,MQ,MQ_OBJ,
+1844,1,what other things would you like me to bring back that I brought,3.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-3-<INANIM>-<PATIENT-V3>,WHNP,EQ,EQ_OBJ,
+1846,0,in case *NULL* you want to ride your car on it?,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,RC,RC_ADJUNCT,
+1850,0,why do you think it makes the bubbles?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,think
+1851,0,why does it make so many bubbles?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1857,0,"what're you going to do about that, Adam?",2.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+1859,0,why don't we clean up this tray?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1862,0,what else're you going to have?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+1866,0,what's it look like?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+1872,0,let's see if I can get it out this time.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,see
+1890,0,where do the wings go?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1894,0,"Paul, he'll show you how it goes.",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,show
+1895,0,he'll show you how it goes like a good big brother.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,show
+1896,0,big brother shows you how everything goes.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,shows
+1899,0,what happens at eight thirty?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+1902,0,what happens at eight thirty?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+1913,0,"well, why don't you leave it on and then well alright.",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+1927,0,"Adam, do you know what this is?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,know
+1930,0,it has on numbers that tell you north east south and west.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<CAUSER-V2>,WHNP,RC,RC_SUBJ,
+1931,0,the airplane needs to know what direction it's going in.,2.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>,WHNP,EQ,EQ_OBJ,know
+1933,0,especially airplanes because they don't have any roads *NULL* to go on.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<LOC-V2>,WHNP,RC,RC_OBJ,
+1934,0,they have to know which way they're going.,2.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>-<LOC-V2>,WHNP,EQ,EQ_OBJ,know
+1940,0,"why are you going to take his, Adam?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1950,0,that's where you put the rubber band.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,put
+1955,0,when it's flying in the air you don't need wheels.,2.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,
+1957,0,see what happens?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,EQ,EQ_SUBJ,see
+1965,0,what're you going to draw?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+1968,0,how does he look when it's snow time?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1968,1,how does he look when it's snow time?,2.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,look
+1975,0,what would it look like?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+1984,0,"maybe if you put it on the puzzle it would be easier, wouldn't it?",,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+1993,0,why is that an octopus?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+1994,0,"what is that, Adam?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2000,0,where are they?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2002,0,can you show which is the wing?,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,show
+2003,0,who's on the airplane now?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<ANIM>,WHNP,MQ,MQ_SUBJ,
+2014,0,when is he on early in the morning?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2024,0,do you know where you live?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,know
+2026,0,do you know how to spell it?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,know
+2034,0,how do you spell it?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2041,0,how do you get the wheels down?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2043,0,how do you make them go up?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2045,0,what were you going to say about your Daddy?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+2051,0,"Adam, which crayon is longer?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_SUBJ,
+2054,0,what color paper would you like?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+2058,0,what color is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2061,0,what do you need?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+2062,0,is this what you need?,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,EQ,EQ_OBJ,need
+2063,0,maybe this is what you need.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,EQ,EQ_OBJ,need
+2064,0,"yes, what would you like?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+2071,0,how do you sneeze?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2072,0,now do the way *NULL* I sneeze.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,do
+2089,0,what was wrong with it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_SUBJ,
+2095,0,what does he do?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+2097,0,how did you catch them?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2098,0,what're you doing with the fish?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+2099,0,what happened to your shoe?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+2102,0,if you say so.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+2103,0,who wears that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<ANIM>-<AGENT-V1>,WHNP,MQ,MQ_SUBJ,
+2109,0,where's your doggie?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2110,0,how big is he now?,1.0,-NONE-ABAR-WH-,T,WH,ADJP,ADJP,ADJUNCT,ADJUNCT,WHADJP-1,WHADJP,MQ,MQ_ADJUNCT,
+2117,0,why are fish so smart?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2121,0,what do you think?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+2122,0,it says what hurts more than a giraffe with a sore throat?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,EQ,EQ_SUBJ,says
+2124,0,what do you think?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+2127,0,what's he doing?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+2129,0,let's see what the next page is.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1,WHNP,EQ,EQ_OBJ,see
+2131,0,what happened to the turtle?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+2133,0,why don't you put an ad in the paper when you lost your dog?,2.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,put
+2133,1,why don't you put an ad in the paper when you lost your dog?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2137,0,do you know what letter that is?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,know
+2144,0,look how many al-s you've got.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,EQ,EQ_OBJ,look
+2145,0,how many are there?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2147,0,what is it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2148,0,do you know what that's called?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V2>,WHNP,EQ,EQ_OBJ,know
+2150,0,do you know what your name starts with?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,know
+2151,0,do you know what that is?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,know
+2154,0,when you have lots of things and you share them with your brother,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+2170,0,that's a marker when you find all those letters then you can write,2.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,
+2176,0,where did it go?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2182,0,what do you use your name for?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2183,0,"yes, which one do you want me to draw, this one?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V2>,WHNP,MQ,MQ_OBJ,
+2189,0,who're you going to shoot?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<ANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+2197,0,is that what book starts with?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,EQ,EQ_OBJ,starts
+2198,0,do you want to know how to write Mommy?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,know
+2202,0,because that's how you spell Mommy.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,spell
+2212,0,what else does she call you?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+2214,0,what other names does she call you?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+2219,0,what does she call you?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+2238,0,which one is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2241,0,how can you tell that you're strong?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2243,0,why don't you want her to see?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2254,0,what is it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2260,0,"he was giving you something, Adam, that he found.",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V2>,WHNP,EQ,EQ_OBJ,
+2266,0,what is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2278,0,"what's that, you're drawing a terrible tiger?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2279,0,"is that something *NULL* you've seen on television, Adam?",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,RC,RC_OBJ,
+2280,0,what color is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2283,0,what is it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2286,0,what's that picture?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2292,0,"you could if you do it on the newspaper, alright?",,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,do
+2294,0,what is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2295,0,"you cann't see anymore what it is, can you?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,see
+2296,0,here are some of the other kind if you want.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,want
+2300,0,what're they going to have for the picnic?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+2302,0,do you know where it is?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,know
+2303,0,here's a book *NULL* we could read.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,RC,RC_OBJ,
+2311,0,let's see if we see the king.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,see
+2317,0,what are these things?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2330,0,"they're holding up the sign, who's eating one?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<ANIM>-<AGENT-V2>,WHNP,MQ,MQ_SUBJ,
+2335,0,that's what he wanted.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,EQ,EQ_OBJ,wanted
+2336,0,whose house is this?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2344,0,what's that.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2345,0,"a slide, splash in the water, and look what happened to him.",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V3>,WHNP,EQ,EQ_SUBJ,look
+2347,0,look where the birds sit.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,look
+2348,0,what is that do you think?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2354,0,what do you think?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+2364,0,this is the fair and this is where they live.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,live
+2368,0,you read that one to me if you like.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,read
+2369,0,"well, that's what I need the scissors for.",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1<INANIM>,WHNP,EQ,EQ_OBJ,need
+2370,0,we can make very nice designs with it if we cut some paper to go on,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,make
+2373,0,how do you know that's the kind *NULL* he likes?,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V2>,WHNP,RC,RC_OBJ,
+2373,1,how do you know that's the kind *NULL* he likes?,2.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,MQ,MQ_ADJUNCT,
+2391,0,now you can set this in different places and see what it does.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V3>,WHNP,EQ,EQ_OBJ,see
+2423,0,what is it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2425,0,that's what makes it draw.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<CAUSER-V1>,WHNP,EQ,EQ_SUBJ,makes
+2427,0,because it's a pen that's writing.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<AGENT-V1>,WHNP,RC,RC_SUBJ,
+2441,0,what happened?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+2446,0,shall I draw where you cut it?,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,draw
+2448,0,remember to go very slow when you're turning.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,go
+2453,0,that's what I thought.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,EQ,EQ_OBJ,thought
+2476,0,is that what you call slow?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,EQ,EQ_OBJ,call
+2494,0,what do you think?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+2496,0,what does that say?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+2504,0,what did you get?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+2506,0,you don't know what you got?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V2>,WHNP,EQ,EQ_OBJ,know
+2508,0,that's all *NULL* I've got.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,RC,RC_OBJ,
+2509,0,do you know what that is?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,know
+2511,0,you know how to use it.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,know
+2521,0,how can you have too much?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2522,0,think you could jump better if I tie your shoes?,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,think
+2522,1,think you could jump better if I tie your shoes?,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,jump
+2529,0,I have to go back up to see if Paul and Diandra are alright.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,see
+2530,0,to see if you and Ursula were alright.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,see
+2534,0,I think maybe some little boy *NULL* I know put it in.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<ANIM>-<SUBJMATT-V2>,WHNP,RC,RC_OBJ,
+2537,0,then who would it be?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<ANIM>,WHNP,MQ,MQ_OBJ,
+2541,0,how could Robin do that?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2557,0,see what happens.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,EQ,EQ_SUBJ,see
+2560,0,then he willn't try to talk if you don't talk properly.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,talk
+2562,0,"Adam, do you want to see some of the things *NULL* I brought?",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V3>,WHNP,RC,RC_OBJ,
+2582,0,look what Alvin's on.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,look
+2592,0,what does that mean?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+2593,0,"oh, what you see on television.",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,EQ,EQ_OBJ,
+2602,0,where's your little animal?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2619,0,let's get something *NULL* to do it on.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<LOC-V3>,WHNP,RC,RC_OBJ,
+2621,0,"Diandra, now you go into your room if you cann't stop that.",,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,go
+2628,0,you'd better ask your mother if it's alright.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,ask
+2629,0,"yes, if you're careful.",,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+2633,0,how many do you have?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+2634,0,where did you lose him?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2635,0,what are you giving them for dinner?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+2645,0,where do they want to go?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2647,0,"what're you making now, Adam?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+2652,0,what're you doing?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+2653,0,what is this supposed to be?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2658,0,what're you working on?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+2670,0,what are the others named?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+2673,0,what is that one named?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+2686,0,"Adam, where'd you go?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2688,0,"oh, just some things that you don't play with.",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,RC,RC_OBJ,
+2703,0,if you do it faster you can see it change colors.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+2706,0,where did you hear a lion?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2711,0,what is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2712,0,"oh, what is it on?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2729,0,if you say the magic word.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+2731,0,what about that word that starts with.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,RC,RC_SUBJ,
+2732,0,what about the word that rhymes with sees.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<AGENT-V1>,WHNP,RC,RC_SUBJ,
+2745,0,why is it nighttime?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2747,0,what do you go to school for?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2759,0,what's your song about?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2760,0,why is it a banjo?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2761,0,what do you think that's for?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,think
+2763,0,what do you think it's for?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,think
+2764,0,"no, that's not what it's for.",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,
+2780,0,let's take one piece *NULL* to start with.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SOURCE-V3>,WHNP,RC,RC_OBJ,
+2786,0,"you can use the Scotch tape if you want, Adam.",,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,use
+2804,0,"Diandra, where's the Scotch tape?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2829,0,"what are you writing, Paul?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+2835,0,where're you going with that chair?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2847,0,why are you going to use all of the paper?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2852,0,"I told you when I called you, don't say huh.",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,told
+2856,0,"what're you doing, Diandra?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+2869,0,"what're you tearing up, Adam?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+2875,0,what is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2876,0,what did you say you were?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,say
+2883,0,what willn't you eat?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+2888,0,what were you doing then?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+2890,0,who was it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<ANIM>,WHNP,MQ,MQ_OBJ,
+2892,0,where does he come from?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2893,0,where's the real Ursula?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2894,0,"Adam Smith, what're you doing?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INNAIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+2895,0,"yes, what is that?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2896,0,why does that have to be attached to that?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2899,0,tell Ursula what happened.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,EQ,EQ_SUBJ,tell
+2900,0,what toy did she leave?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+2901,0,and what happened to it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,EQ,EQ_SUBJ,
+2904,0,tell her what happened.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,EQ,EQ_SUBJ,tell
+2906,0,what do you have in your pocket?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+2910,0,"Adam, why don't you sit down?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2913,0,what do you think it says?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V2>,WHNP,EQ,EQ_OBJ,think
+2926,0,what're you doing over there?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+2927,0,why don't you start down here?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2934,0,what about trying to do the one *NULL* you had?,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,RC,RC_OBJ,
+2944,0,"who's sleepy, Adam?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-ANIM>,WHNP,MQ,MQ_SUBJ,
+2957,0,it's not a ball *NULL* to throw.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,RC,RC_OBJ,
+2965,0,what's your horse's name?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+2979,0,"no, why do you want to?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2982,0,but why don't we not not do that today.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+2994,0,where's the nipple for that bottle?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+2996,0,why did she swallow it?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3006,0,why did you walk on this paper?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3012,0,what do you call what you do to a bottle?,2.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>-<THEME-V2>,WHNP,EQ,EQ_OBJ,call
+3012,1,what do you call what you do to a bottle?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,MQ,MQ_OBJ,
+3014,0,what do you do to a bottle?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+3036,0,what does that spell?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+3038,0,what is spray?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3039,0,what kind is it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3053,0,what happened to the funnel?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+3056,0,what are you pouring it into?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<GOAL-V1>,WHNP,MQ,MQ_OBJ,
+3058,0,"now that's not the way *NULL* you play, is it?",1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1-<PATIENT-V1>,WHADVP,EQ,EQ_ADJUNCT,play
+3059,0,you have a funnel that lets you know when you have enough in the,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<AGENT-V2>,WHNP,RC,RC_SUBJ,
+3060,0,where's the other bottle?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3065,0,"what have they got, those men?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+3067,0,how can they?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3068,0,how can animals box themselves?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3070,0,what do you think this says?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V2>,WHNP,EQ,EQ_OBJ,think
+3080,0,how could you wear a tree?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3083,0,"yes, you can take them all out if you want.",,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,take
+3090,0,then what will you do with it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+3092,0,what're you digging for?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3113,0,what happened?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+3115,0,why do you like that one?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3125,0,what happens when you blow the whistle?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+3125,1,what happens when you blow the whistle?,2.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,happens
+3128,0,what is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3134,0,how can she write if you sit on top of her?,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,write
+3136,0,who lives in your barn.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<ANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+3139,0,what men did you have?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+3146,0,where did you learn how to do that?,2.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,learn
+3146,1,where did you learn how to do that?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3154,0,"oh, where did you get feather brain?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3159,0,where's the Mommy?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3161,0,"he cann't do the puzzle, dear, why don't you leave it closed?",1.0,-NONE-A-PASS-,T,OTHER,NP,NP,OBJ,OBJ,WHADVP-1,WHADVP,MQ,MQ_OBJ,
+3163,0,if you cann't what?,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+3167,0,what kind of bird is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3173,0,"what are they doing, walking when they're on the truck?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+3173,1,"what are they doing, walking when they're on the truck?",2.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,walking
+3177,0,why should he do that?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3184,0,who is Calliec?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<ANIM>,WHNP,MQ,MQ_OBJ,
+3185,0,who is Calliec?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<ANIM>,WHNP,MQ,MQ_OBJ,
+3194,0,what're you tearing that for?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3196,0,it's the cover that came off the puzzle.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,RC,RC_SUBJ,
+3199,0,which one would you like?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+3205,0,you want to see what a license looks like.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V3>,WHNP,EQ,EQ_OBJ,see
+3206,0,this is what it looks like.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,EQ,EQ_OBJ,looks
+3208,0,it's a driver's license *NULL* you want to see.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,RC,RC_OBJ,
+3209,0,what else is in there?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_SUBJ,
+3211,0,you know what the name of that statue is?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,know
+3215,0,those are stamps *NULL* you use when you want to send a letter to Italy.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,RC,RC_OBJ,
+3215,1,those are stamps *NULL* you use when you want to send a letter to Italy.,2.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,use
+3231,0,shall I draw you how it looks?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,draw
+3238,0,what else are you going to put in your letter?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+3241,0,what would you do with a gun_penc.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+3243,0,what would the writing bullets do?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+3245,0,"no, do you know where some scissors are?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,know
+3246,0,is that where the scissors would be?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+3260,0,your letter the one *NULL* you wrote.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,RC,RC_OBJ,
+3274,0,what kind of bean is it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3276,0,why is that Jesus?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3277,0,what does that mean?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+3281,0,if you say so.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+3294,0,what is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3295,0,if you know someone in Italy.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+3301,0,"yes, what are you cutting out?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+3303,0,what are you cutting out?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+3307,0,but she thought it was somebody who didn't live here.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<ANIM>-<THEME-V2>,WHNP,RC,RC_SUBJ,
+3308,0,"oh, is that what she told you?",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,EQ,EQ_OBJ,told
+3319,0,"I saw her when she was a puppy, but not since then.",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,saw
+3330,0,how can you draw it quick if you really want to draw something?,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,draw
+3330,1,how can you draw it quick if you really want to draw something?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3353,0,what is the funniest bird *NULL* you ever saw?,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,RC,RC_OBJ,
+3353,1,what is the funniest bird *NULL* you ever saw?,2.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>,WHNP,MQ,MQ_OBJ,
+3357,0,"do you know how to say please, Adam Smith?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,know
+3358,0,now let's see if you can say the other magic word?,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,see
+3362,0,why're you getting another chair?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3365,0,that they have at the carnival that you get in and drive.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,EQ,EQ_OBJ,
+3365,1,that they have at the carnival that you get in and drive.,2.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>-<GOAL-V2>,WHNP,EQ,EQ_OBJ,
+3365,2,that they have at the carnival that you get in and drive.,2.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>-<GOAL-V2>,WHNP,EQ,EQ_OBJ,
+3371,0,how do you know what we find at the carnival?,2.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>-<PATIENT-V2>,WHNP,EQ,EQ_OBJ,know
+3371,1,how do you know what we find at the carnival?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3372,0,"oh, you have some friends who know a lot.",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<ANIM>-<EXPER-V2>,WHNP,RC,RC_SUBJ,
+3373,0,who are those friends?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<ANIM>,WHNP,MQ,MQ_OBJ,
+3375,0,"well, why don't you let Paul play with it while you're doing that?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3394,0,what is what?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3410,0,if a cat's baby is called a kitten what's a dog's baby called?,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+3410,1,if a cat's baby is called a kitten what's a dog's baby called?,2.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>-<PATIENT-V2>,WHNP,MQ,MQ_OBJ,
+3412,0,if a cat's baby is called a kitten then what is a dog's baby,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+3412,1,if a cat's baby is called a kitten then what is a dog's baby,2.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>,WHNP,MQ,MQ_OBJ,
+3413,0,what's a baby dog?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3418,0,"Paul, what says oinko oinko?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<ANIM>-<AGENT-V1>,WHNP,MQ,MQ_SUBJ,
+3419,0,what says quacko?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<AGENT-V1>,WHNP,MQ,MQ_SUBJ,
+3420,0,what is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3424,0,"Adam, what's your dirty undershirt doing in here?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+3425,0,what is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3429,0,that Adam that went to school?,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,RC,RC_SUBJ,
+3431,0,"oh, what's his name?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3434,0,what is what?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3436,0,why don't you turn your chair around so I can see.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3443,0,where did they go then?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3445,0,what do I see that begins with hl like Hercules?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,ADJUNCT,ADJUNCT,WHNP-1-<INANIM>,WHNP,MQ,MQ_ADJUNCT,
+3445,1,what do I see that begins with hl like Hercules?,2.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-2-<INANIM>-<THEME-V2>,WHNP,RC,RC_SUBJ,
+3450,0,is that the way *NULL* you talk at school?,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1-<INANIM>,WHADVP,EQ,EQ_ADJUNCT,talk
+3452,0,so she'll remember what we're all saying.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V2>,WHNP,EQ,EQ_OBJ,remember
+3454,0,"no, but I'd like to see how it works.",1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,see
+3456,0,she means how you play with it.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,means
+3457,0,what happens to the barn?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+3459,0,"yes, why don't you show Ursula the animal set that lives in the",2.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-2-<INANIM>-<THEME-V2>,WHNP,RC,RC_SUBJ,
+3463,0,"oh, let's see what else there is.",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,see
+3465,0,this is the man who wrote the book.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<ANIM>-<AGENT-V1>,WHNP,RC,RC_SUBJ,
+3469,0,that's what that paper was for.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,
+3471,0,what's her name?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3473,0,what are you doing?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+3478,0,you could do it if you fold the paper.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,do
+3479,0,"well, you have to fold right near where you want to go.",1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,fold
+3486,0,when you want me you call me.,2.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,
+3494,0,how do you know when it's tomorrow?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3494,1,how do you know when it's tomorrow?,2.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,know
+3495,0,"Adam, how do you know when it's tomorrow?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3495,1,"Adam, how do you know when it's tomorrow?",2.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,know
+3500,0,how do you know when it's morning or afternoon?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3500,1,how do you know when it's morning or afternoon?,2.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,know
+3503,0,how do you know if it's night or day?,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,know
+3503,1,how do you know if it's night or day?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3505,0,where is your watch?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3517,0,how could it be both?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3531,0,what does your church have?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+3542,0,how can you tell?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3543,0,but does he only cry when he's naughty?,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,cry
+3558,0,"oh yes, I see one that looks like a lollipop.",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<CAUSER-V2>,WHNP,RC,RC_SUBJ,
+3571,0,when you want to shoot you first pull this and then pull this.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+3587,0,what number is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3614,0,let me see who's taller.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<ANIM>,WHNP,EQ,EQ_SUBJ,see
+3617,0,I'd like to sit in this chair if it's alright with you.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,sit
+3620,0,where're you going to tie the other end?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3622,0,if you cann't tie it maybe Robin can tie it.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+3624,0,Ursula brought it for *NULL* Adam to play with.,1.0,-NONE-ABAR-OTHER-,T,OTHER,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V2>,WHNP,EQ,EQ_OBJ,brought
+3626,0,let me see if there's something *NULL* you can hang in the box.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,see
+3626,1,let me see if there's something *NULL* you can hang in the box.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V3>,WHNP,RC,RC_OBJ,
+3628,0,what can you do about that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+3642,0,what's a scrap?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3644,0,what kind of medicine is it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3645,0,"Robin, what does that sign say?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+3647,0,what letters are those like that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3659,0,"oh, what is that?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3660,0,what is it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3672,0,when you start going to school you can read too.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+3676,0,what do you think that is?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,think
+3677,0,what is this do you think?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,
+3687,0,"oh, what does the sign say?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3691,0,what else did you see?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+3711,0,"oh yes, what is that?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3716,0,"oh, you have too much work *NULL* to do?",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,RC,RC_OBJ,
+3727,0,"oh, Adam, why don't you give them to Robin and then he can give",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+3733,0,where's the box?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3745,0,if you have a hurt or scratch or cut you can clean it with a ball of cotton.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+3746,0,"Diandra, why are you tearing it up?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3748,0,"what time is it, Adam?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3750,0,maybe you should keep the things *NULL* we want to keep away from there.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V3>,WHNP,RC,RC_OBJ,
+3759,0,"oh, did he say what I said?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V2>,WHNP,EQ,EQ_OBJ,say
+3764,0,what does that mean?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+3768,0,"what's wrong, doctor?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3770,0,the things *NULL* you need that the doctor uses.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,RC,RC_OBJ,
+3770,1,the things *NULL* you need that the doctor uses.,2.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>-<PATIENT-V2>,WHNP,RC,RC_OBJ,
+3802,0,"Adam, do you want to see the film that Ursula took the other day?",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V3>,WHNP,RC,RC_OBJ,
+3814,0,how does this work?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3815,0,that's the handle *NULL* to turn the film.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<AGENT-V1>,WHNP,RC,RC_SUBJ,
+3820,0,where're you going?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3823,0,if the room is dark we can see it better.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+3829,0,who's crying?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<ANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+3835,0,there's a button on the side that turns the light on.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<AGENT-V1>,WHNP,RC,RC_SUBJ,
+3850,0,how many does she have?,1.0,-NONE-ABAR-WH-,T,WH,ADJP,ADJP,ADJUNCT,ADJUNCT,WHADJP-1,WHADJP,MQ,MQ_ADJUNCT,
+3856,0,do you want to see where they bump their heads?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,see
+3861,0,what did he do?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+3865,0,what's happening now?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+3870,0,let's see what we find in this one.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V3>,WHNP,EQ,EQ_OBJ,see
+3876,0,who does that look like?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<ANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+3883,0,"well, why don't you do it?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3889,0,what happened?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+3896,0,what happened?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+3897,0,how do you think you have to do it?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,think
+3902,0,I have one more comedy if you want one.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,have
+3903,0,why is it dangerous?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3909,0,we can do that one *NULL* we unwound.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V2>,WHNP,RC,RC_OBJ,
+3914,0,where is that?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3919,0,why would you do that?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+3928,0,what's that doing?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+3933,0,who was scared?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<ANIM>,WHNP,MQ,MQ_SUBJ,
+3946,0,what're you doing with my box?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+3956,0,what happened?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+3963,0,what is it a picture of?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3969,0,because when you turn it off you cut the current off and then you,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+3971,0,not when it's off.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+3977,0,what color is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3978,0,what color is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3979,0,what color is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+3990,0,how many did you knock down?,1.0,-NONE-ABAR-WH-,T,WH,ADJP,ADJP,ADJUNCT,ADJUNCT,WHADJP-1,WHADJP,MQ,MQ_ADJUNCT,
+3994,0,where's the other bowling ball?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4004,0,you watch and see how Robin does it.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,see
+4016,0,what do you think it looks like?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V2>,WHNP,EQ,EQ_OBJ,think
+4026,0,how did he do it?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4033,0,what do you call it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+4036,0,what do you think the balloon is made of?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SOURCE-V2>,WHNP,EQ,EQ_OBJ,think
+4044,0,how do you play it?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4045,0,if you see what?,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+4053,0,and what does wood come from?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SOURCE-V1>,WHNP,EQ,EQ_OBJ,
+4057,0,if you have a quarter you can change it into two dimes.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+4058,0,how do you think they make dollars?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,think
+4068,0,"I know a boy named Peter, is that what you mean?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V3>,WHNP,EQ,EQ_OBJ,mean
+4084,0,do you remember where you played with them?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,remember
+4090,0,"Adam, could you show us where's the bathroom?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,show
+4091,0,"don't go in the bathroom, dear if somebody's in it.",,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,go
+4095,0,that can go wherever you want.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,go
+4112,0,"what did Robin make, Adam?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+4115,0,"Robin, how's your kitty?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4118,0,do you know what that kitty does when I clean house?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,EQ,EQ_OBJ,know
+4118,1,do you know what that kitty does when I clean house?,2.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,does
+4119,0,whenever I 'm sweeping the kitty lands right in the dirt.,2.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,
+4124,0,she doesn't want to be tired when they do get home.,2.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,get
+4125,0,what kind of fish are you going to get?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+4126,0,what kind of fish is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+4130,0,the car that I have now.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,RC,RC_OBJ,
+4161,0,if you're finished with it you better pour it back into the jar.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+4172,0,now if you open it you have to play with it.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+4175,0,who's hungry?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<ANIM>,WHNP,MQ,MQ_SUBJ,
+4188,0,let's see what happens.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V3>,WHNP,EQ,EQ_SUBJ,see
+4193,0,what are those numbers?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+4199,0,"no no, Adam, now that's not the way *NULL* you got them.",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,RC,RC_OBJ,
+4202,0,that's why there should be none of it left.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+4204,0,I don't see how you could be finished so soon.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,see
+4205,0,see if there's a pad of paper in my bag.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,see
+4210,0,what did you say?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+4216,0,what did you dream?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+4228,0,what does feather brain mean?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+4233,0,is that what happened?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,EQ,EQ_SUBJ,happened
+4236,0,why don't you use that other paper on the back for a stem.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4237,0,"oh, what did you write?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+4242,0,"oh, what is that?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+4246,0,what're you going to do?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+4249,0,"the wizzyc lion, I don't know what that is.",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,know
+4250,0,who is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<ANIM>,WHNP,MQ,MQ_OBJ,
+4257,0,what color do you think he should color it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,think
+4260,0,what is your favorite color?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+4261,0,what color is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+4269,0,why don't you cut a stem?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4272,0,what will she have to write on?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<LOC-V1>,WHNP,MQ,MQ_OBJ,
+4274,0,what do you want?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+4280,0,"what did you say, Adam?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+4289,0,"how would you what, Adam?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4290,0,what's freesofc?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+4291,0,what's freesofc?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+4296,0,"what're you making, Adam?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+4297,0,what happens when we go to sleep?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+4297,1,what happens when we go to sleep?,2.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,happens
+4299,0,"what is that, Adam?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+4309,0,where can I find a piece of scissors?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4311,0,what a nice lot of flowers *NULL* you've got.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,RC,RC_OBJ,
+4314,0,how would that help?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4319,0,I don't understand how she understands anything anyway.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,understand
+4322,0,how many cars do you have?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+4324,0,how could your hair get sneezy?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4326,0,that lady that sleepedn,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,RC,RC_SUBJ,
+4327,0,maybe that's a babysitter who went to sleep.,2.0,-NONE-ABAR-RC-,T,RC,NP-1,NP,SUBJ,SUBJ,WHNP-2-<ANIM>-<THEME-V1>,WHNP,RC,RC_SUBJ,
+4328,0,"oh, she stayed when I was sick.",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,stayed
+4329,0,you could see what else is in the bag.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_SUBJ,see
+4334,0,"what is, Adam?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_SUBJ,
+4344,0,what do you think?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+4348,0,what kind of color is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+4349,0,what do you think?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+4352,0,what are you writing?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+4358,0,you may give Robin a banana and Ursula a banana if you like to.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,give
+4369,0,in case *NULL* you want to carry it with you.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,RC,RC_ADJUNCT,
+4385,0,what happened?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+4387,0,what's your favorite color?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+4399,0,that's what divers do.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,EQ,EQ_OBJ,do
+4401,0,about men who lived under the sea for three months.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<ANIM>-<THEME-V1>,WHNP,RC,RC_SUBJ,
+4402,0,how could they?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4423,0,what's base?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+4426,0,something like boots but like a suit that covers him everywhere.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<AGENT-V1>,WHNP,RC,RC_SUBJ,
+4445,0,she willn't know what's in there.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_SUBJ,know
+4448,0,I'll show you how much is half.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1,WHNP,EQ,EQ_SUBJ,show
+4451,0,let's see what else is in my bag.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_SUBJ,see
+4456,0,who's the teacher?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<ANIM>,WHNP,MQ,MQ_OBJ,
+4458,0,how do you look bent?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4460,0,let me see if it needs cleaning.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,see
+4465,0,what is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+4467,0,is it something *NULL* you eat?,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,RC,RC_OBJ,
+4476,0,how do you like yourself?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4478,0,how did you open it when I wasn't in here?,2.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,open
+4478,1,how did you open it when I wasn't in here?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4483,0,"Adam, why don't you write your name.",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4488,0,where's the al?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4496,0,where are you going?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4501,0,"what're you making, Adam?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+4506,0,"Adam, what're you making?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+4516,0,what happened to all the crayons?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+4528,0,"these are the things that you build with, see, because they rest on",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<INSTR-V1>,WHNP,RC,RC_OBJ,
+4536,0,what's this?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+4561,0,why is it naughty?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4568,0,let's see if we cann't make it stand up.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,see
+4573,0,what's the matter?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+4577,0,what're you doing?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+4584,0,what're you going to do with them.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+4595,0,now where we live.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+4600,0,who is going to sleep in the beds.,1.0,-NONE-ABAR-WH-,T,WH,NP-2,NP,SUBJ,SUBJ,WHNP-1-<ANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+4604,0,"Adam, do you know what he's saying?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V2>,WHNP,EQ,EQ_OBJ,know
+4606,0,how could you sleep higher than the roof?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4658,0,that's where you used to live.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,used
+4685,0,let's see if there's something else *NULL* to do on it.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,see
+4685,1,let's see if there's something else *NULL* to do on it.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V3>,WHNP,RC,RC_OBJ,
+4692,0,"what's that, Paul?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+4704,0,"no, in the bag where you got it.",1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+4710,0,"I don't know what's in that bag, Adam.",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_SUBJ,know
+4711,0,what is it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+4721,0,I'll see if I can make the shape.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,see
+4732,0,"let's see, what shall we make?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V3>,WHNP,MQ,MQ_OBJ,
+4735,0,what's that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+4737,0,which finger do you want it on?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<LOC-V1>,WHNP,MQ,MQ_OBJ,
+4742,0,"oh, what's that?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+4754,0,"here, see if this fits your other finger.",,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,see
+4760,0,you know who Ringo is?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<ANIM>,WHNP,EQ,EQ_OBJ,know
+4764,0,what else shall I make?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+4768,0,how come you know I didn't bring my car?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4777,0,I could make one for every finger if you want.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,make
+4782,0,who's Kris?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<ANIM>,WHNP,MQ,MQ_OBJ,
+4792,0,what's the difference between a spear and an arrow?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+4803,0,what would a lion be doing on your street?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+4805,0,I wouldn't mind if a monkey wakes me up.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,mind
+4817,0,I'll see them when I go out.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,see
+4827,0,is that how it goes?,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,goes
+4832,0,what happened to my flowers?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+4841,0,let's see first how big your wrist is.,1.0,-NONE-ABAR-WH-,T,WH,ADJP,ADJP,ADJUNCT,ADJUNCT,WHADJP-1,WHADJP,EQ,EQ_ADJUNCT,see
+4850,0,you have to ask me when you want it off.,2.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,ask
+4855,0,what time is it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+4867,0,what're you going to do with the pajamas?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+4868,0,what does it look like?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+4870,0,let's see where it's going to fit.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,see
+4882,0,put a cracker in here and turn it and see what happens.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V4>,WHNP,EQ,EQ_SUBJ,see
+4883,0,what did it make?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+4892,0,yes or else you could ask your Mother if there is anything else,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,ask
+4896,0,"what did you say, sugar?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+4905,0,"let's see if we can rescue some of this, alright?",,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,see
+4909,0,look inside and see how you think it works.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,think
+4910,0,where does it push it?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4912,0,where does the grain go when you push it?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4912,1,where does the grain go when you push it?,2.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,go
+4923,0,what does yours taste like?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+4931,0,"well, look what happens here.",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,EQ,EQ_SUBJ,look
+4932,0,what do you think this does when you put a cracker through there?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,EQ,EQ_OBJ,think
+4932,1,what do you think this does when you put a cracker through there?,2.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,does
+4933,0,what do you think it does here?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,EQ,EQ_OBJ,think
+4934,0,how come it gets so small?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4935,0,what do you think it will be like?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,think
+4940,0,what's it like?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+4951,0,"it changes grain into anything *NULL* you want, right?",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V2>,WHNP,RC,RC_OBJ,
+4953,0,why do you have to wait till it gets older?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4954,0,what kind of things do you eat that are older?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,ADJUNCT,ADJUNCT,WHNP-1-<INANIM>,WHNP,MQ,MQ_ADJUNCT,
+4954,1,what kind of things do you eat that are older?,2.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-2-<INANIM>,WHNP,RC,RC_SUBJ,
+4961,0,who's coming down?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<ANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+4963,0,what did you call it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+4967,0,I don't know if I have anything else.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,know
+4969,0,what do you think?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+4973,0,what do you think?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+4983,0,"well, I'll take one and you take two, how's that?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+4984,0,what did we forget?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+5001,0,why don't you bake some bread?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5008,0,that I didn't bring you down anything *NULL* to eat.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V2>,WHNP,RC,RC_OBJ,
+5013,0,what time is it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+5014,0,"oh yes, what shall I do with it?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+5017,0,if you want to but I don't want any more.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+5018,0,what do you think that was?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,think
+5020,0,how do you know how cows eat?,2.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,know
+5020,1,how do you know how cows eat?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5021,0,how do you know how cows eat?,2.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,know
+5021,1,how do you know how cows eat?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5026,0,where shall we put this?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5027,0,you had something *NULL* to eat.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V2>,WHNP,RC,RC_OBJ,
+5028,0,did you tell her what you had in there?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,EQ,EQ_OBJ,tell
+5032,0,would he be taller than you if you trade chairs?,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,trade
+5038,0,who made the hats?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<ANIM>-<AGENT-V1>,WHNP,MQ,MQ_SUBJ,
+5041,0,"well, I saw them in her office when I took the robe in.",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,saw
+5043,0,"oh, is that the way *NULL* you know that's rubber?",1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,know
+5058,0,it willn't work if you put too much on there.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,work
+5060,0,what is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+5063,0,that must be paper *NULL* to print on.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<LOC-V1>,WHNP,RC,RC_OBJ,
+5079,0,"well, what does that mean?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+5083,0,why do you think it sticks?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,think
+5086,0,is that why it's sticking?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,sticking
+5099,0,"Adam, why don't you let them play with it?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5113,0,I can feel mine jump when I hold mine in my hand.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,jump
+5119,0,how can you get out?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5124,0,"what did you find, Adam?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+5135,0,I have an idea what you said.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V2>,WHNP,EQ,EQ_OBJ,have
+5141,0,what're you doing that for?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+5143,0,why don't you take that one out?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5152,0,why don't you do it over here?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5162,0,why don't you stick to one thing?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5166,0,what will I play with when I go home?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+5166,1,what will I play with when I go home?,2.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,play
+5171,0,what're you supposed to be?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+5176,0,is that what you said?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,EQ,EQ_OBJ,said
+5182,0,"what's wrong, Paul?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_SUBJ,
+5185,0,"no, what could you put the cans on?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<GOAL-V1>,WHNP,MQ,MQ_OBJ,
+5195,0,who makes the rodgerc gun?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<ANIM>-<AGENT-V1>,WHNP,MQ,MQ_SUBJ,
+5217,0,why do you think it sticks?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,think
+5219,0,see if you can find out why.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,see
+5223,0,what do you think happens when I push down?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,EQ,EQ_SUBJ,think
+5223,1,what do you think happens when I push down?,2.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,happens
+5225,0,when you push down it pushes out the air underneath there.,2.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,
+5227,0,can you tell me what makes that stick?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<CAUSER-V2>,WHNP,EQ,EQ_SUBJ,tell
+5233,0,what is the dodge?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+5240,0,how many do you have?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+5245,0,that's what the expression is.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,
+5246,0,it's something *NULL* you say to,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,RC,RC_OBJ,
+5248,0,you could shoot at anything that's set up for a target.,1.0,-NONE-ABAR-RC-,T,RC,NP-2,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,RC,RC_SUBJ,
+5249,0,"oh, is that why you missed?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,missed
+5266,0,where's your dog?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5271,0,what does it play or sing?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>-<PATIENT-V2>,WHNP,MQ,MQ_OBJ,
+5271,1,what does it play or sing?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>-<PATIENT-V2>,WHNP,MQ,MQ_OBJ,
+5279,0,when you're a little older and a little bigger.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+5284,0,whatever you'd like to play.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<THEME-V2>,WHNP,EQ,EQ_OBJ,
+5286,0,what part of the house do you live in?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<LOC-V1>,WHNP,MQ,MQ_OBJ,
+5295,0,where is it?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5302,0,that shows where to put your fingers.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,shows
+5304,0,do you know what they are?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,know
+5312,0,which piece do you want?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+5313,0,what do you want to make?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V2>,WHNP,MQ,MQ_OBJ,
+5329,0,what does he need?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+5332,0,now squeeze it and see what happens,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V3>,WHNP,EQ,EQ_SUBJ,see
+5333,0,"now let's put a hunk of this in and see what happens, alright?",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V4>,WHNP,EQ,EQ_SUBJ,see
+5334,0,"let's cover it all up, now see what happens.",1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V3>,WHNP,EQ,EQ_SUBJ,see
+5341,0,I don't think it will close if you put too many.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,think
+5341,1,I don't think it will close if you put too many.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,close
+5344,0,did you tell Ursula what you do at school?,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,EQ,EQ_OBJ,tell
+5346,0,I wonder what happens if you mix these two.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,wonder
+5346,1,I wonder what happens if you mix these two.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,happens
+5346,2,I wonder what happens if you mix these two.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,EQ,EQ_SUBJ,wonder
+5347,0,what do you think it will make?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,EQ,EQ_OBJ,think
+5359,0,that's nice colors that you have there.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,RC,RC_OBJ,
+5366,0,now what's our telephone number?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+5373,0,what kind of dog is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+5376,0,what is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+5380,0,what would the tiger like?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+5386,0,you have to give him some nice strong legs *NULL* to stand on.,2.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>-<LOC-V2>,WHNP,RC,RC_OBJ,
+5397,0,why is he crying?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5401,0,"how much do they cost, you tell me.",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1,WHNP,MQ,MQ_OBJ,
+5403,0,how much do they cost?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1,WHNP,MQ,MQ_OBJ,
+5404,0,what time does the clock say?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+5410,0,if you only give him two every day.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+5442,0,why don't you play with the banjo?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5443,0,I thought a banjo was all *NULL* you wanted.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V2>,WHNP,RC,RC_OBJ,
+5448,0,I don't know what else is in here.,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_SUBJ,know
+5450,0,what do you mean?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+5452,0,do you want to show your Mother what we made?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V3>,WHNP,EQ,EQ_OBJ,show
+5457,0,if she said yes it must be yes.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+5466,0,hold it up so Adam can see how it looks.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,see
+5477,0,what do you want me to tear?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V2>,WHNP,MQ,MQ_OBJ,
+5480,0,what did you draw in school yesterday?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+5481,0,I don't understand how to play that game.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,understand
+5483,0,and then what do you do?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,EQ,EQ_OBJ,
+5486,0,I have quite a ways *NULL* to go.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<GOAL-V2>,WHNP,RC,RC_OBJ,
+5490,0,"oh, what is it now?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+5493,0,"oh, why don't you give her one of the ones that you had her make?",2.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>-<PATIENT-V3>,WHNP,RC,RC_OBJ,
+5493,1,"oh, why don't you give her one of the ones that you had her make?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5495,0,let's see if we can sharpen it.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,see
+5501,0,what was that game *NULL* you were playing that I heard downstairs?,2.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>-<THEME-V1>,WHNP,RC,RC_OBJ,
+5501,1,what was that game *NULL* you were playing that I heard downstairs?,3.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-3-<INANIM>-<SUBJMATT-V2>,WHNP,RC,RC_OBJ,
+5501,2,what was that game *NULL* you were playing that I heard downstairs?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+5503,0,why do you do that?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5512,0,what are you doing?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+5519,0,where are you?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5528,0,I thought you said what is Rinny doing?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V3>,WHNP,EQ,EQ_OBJ,said
+5531,0,what did you say?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+5533,0,how're you?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5534,0,what did you say?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+5535,0,what did you say?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+5540,0,what did you say?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+5545,0,when you talk you have to press the button.,2.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,
+5549,0,that's just the case *NULL* it came in.,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<LOC-V1>,WHNP,RC,RC_OBJ,
+5558,0,"well, maybe when you get a little bigger.",1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+5563,0,why don't you look and see what else is in the box?,1.0,-NONE-ABAR-RC-,T,RC,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_SUBJ,see
+5563,1,why don't you look and see what else is in the box?,2.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,MQ,MQ_ADJUNCT,
+5564,0,last time *NULL* we went to get them they were out of them.,1.0,-NONE-A-RAISE-,T,OTHER,NP,NP,SUBJ,SUBJ,WHADVP-1,WHADVP,EQ,EQ_SUBJ,
+5564,1,last time *NULL* we went to get them they were out of them.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,
+5574,0,what do you think it is?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,EQ,EQ_OBJ,think
+5576,0,what else did you do in school today?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+5582,0,what kind of game were you playing?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+5587,0,what happened to that school?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+5591,0,how does that work out?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5592,0,isn't that the way *NULL* it works.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,works
+5595,0,"yes, how are you going to make those?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5597,0,how should we begin?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5598,0,"well, why don't you make a bottom for it?",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5604,0,what does that one say?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<PATIENT-V1>,WHNP,MQ,MQ_OBJ,
+5606,0,"no, I don't know how to make a monster.",1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,know
+5611,0,what is that?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+5616,0,put it up here when it's finished.,1.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,put
+5624,0,if it rings again.,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+5628,0,a place where you sit and drink coffee.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,RC,RC_ADJUNCT,
+5634,0,what else do you need?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+5647,0,what does that mean?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<SUBJMATT-V1>,WHNP,MQ,MQ_OBJ,
+5652,0,what's the number on Greenwich Park?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+5655,0,where does eleven and one half come in?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5658,0,"no, she wouldn't give it to you if they were cracked.",,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,give
+5668,0,what is shrimp?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
+5672,0,if you've finished why don't you put them back in the box?,,,,POLAR,,,,POLAR,,,EQ,EQ_POLAR,
+5672,1,if you've finished why don't you put them back in the box?,2.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,MQ,MQ_ADJUNCT,
+5676,0,what happens when you drop a bomb?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,SUBJ,SUBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_SUBJ,
+5676,1,what happens when you drop a bomb?,2.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,happens
+5678,0,why don't you start picking them up and putting them in the box?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5684,0,how can I play when you're playing?,2.0,-NONE-ABAR-RC-,T,RC,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-2,WHADVP,EQ,EQ_ADJUNCT,play
+5684,1,how can I play when you're playing?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5689,0,how can she?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5697,0,why don't you write your name?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5699,0,why don't you write this time?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5700,0,are you going to pick the blocks up while I 'm making what I want to,2.0,-NONE-ABAR-RC-,T,RC,NP,NP,OBJ,OBJ,WHNP-2-<INANIM>,WHNP,EQ,EQ_OBJ,making
+5704,0,what do you think that has on it?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V2>,WHNP,EQ,EQ_OBJ,think
+5709,0,why would you do that?,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,MQ,MQ_ADJUNCT,
+5710,0,"oh, what are you going to do?",1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>-<THEME-V1>,WHNP,MQ,MQ_OBJ,
+5715,0,see how it's strung.,1.0,-NONE-ABAR-WH-,T,WH,ADVP,ADVP,ADJUNCT,ADJUNCT,WHADVP-1,WHADVP,EQ,EQ_ADJUNCT,see
+5717,0,what's that a violin?,1.0,-NONE-ABAR-WH-,T,WH,NP,NP,OBJ,OBJ,WHNP-1-<INANIM>,WHNP,MQ,MQ_OBJ,
